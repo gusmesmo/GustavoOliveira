@@ -9,7 +9,7 @@
 - 📫 E-mail: gustavoletra7@gmail.com 
 
 ## 🌐 Redes:
-[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >](https://www.linkedin.com/in/gusmesmo/)  
+[<img src='https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white' >](https://www.linkedin.com/in/gustavo-oliveira-353647207/)  
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=gusmesmo&show_icons=true&theme=dark) 
 
