@@ -6,8 +6,6 @@
 <img src="https://img.shields.io/badge/Python:-Básico-brightgreen"> <img src="https://img.shields.io/badge/HTML:-Básico-brightgreen"> <img src="https://img.shields.io/badge/Sony Vegas:-Junior-orange"> <img src="https://img.shields.io/badge/Photoshop:-Junior-orange">
 
 
-- 💻  Atualmente aprendendo Python e C 
-- 👯 Colaborando no desenvolvimento da [Pantion](https://github.com/roogercamargo/FatecAPI-02) 
 - 📫 E-mail: gustavoletra7@gmail.com 
 
 ## 🌐 Redes:
